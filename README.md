@@ -21,4 +21,3 @@ const config = {
 ```
 ## Installation
 run 'node server' in your command line
-# FEND_3_Weather-journal
